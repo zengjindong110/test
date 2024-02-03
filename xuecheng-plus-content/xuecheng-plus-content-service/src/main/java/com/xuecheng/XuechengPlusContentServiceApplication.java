@@ -4,10 +4,10 @@
 //import org.springframework.boot.autoconfigure.SpringBootApplication;
 //
 //@SpringBootApplication
-//public class XuechengPlusContentModelApplication {
+//public class XuechengPlusContentServiceApplication {
 //
 //    public static void main(String[] args) {
-//        SpringApplication.run(XuechengPlusContentModelApplication.class, args);
+//        SpringApplication.run(XuechengPlusContentServiceApplication.class, args);
 //    }
 //
 //}

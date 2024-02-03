@@ -10,7 +10,6 @@
         <module name="xuecheng-plus-search" />
         <module name="xuecheng-plus-message" />
         <module name="xuecheng-plus-project" />
-        <module name="xuecheng-plus-base" />
       </profile>
       <profile name="Annotation profile for xuecheng-plus-content" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -23,6 +22,7 @@
         <module name="xuecheng-plus-content-api" />
         <module name="xuecheng-plus-content-model" />
         <module name="xuecheng-plus-generator" />
+        <module name="xuecheng-plus-base" />
       </profile>
     </annotationProcessing>
   </component>
